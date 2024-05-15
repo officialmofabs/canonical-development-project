@@ -1,0 +1,20 @@
+repo_name: officialmofabs/canonical-development-project
+report_id: 1c8b3e31915a047a8c9f81d672cbe5c6
+version: 0.1
+repo_type: Public
+timestamp: '2024-05-15T23:24:51+00:00'
+requested_by: felipecruz91
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/officialmofabs/canonical-development-project
+  detection_source: Repo Metadata
